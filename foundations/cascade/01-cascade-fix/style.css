@@ -8,20 +8,20 @@ body {
   font-weight: 800;
 }
 
-.small-para {
+.text.child, .para.small-para {
   font-size: 14px;
   font-weight: 800;
-}
+} /*   changed */
 
 .para {
   font-size: 22px;
 }
 
-.confirm {
+#confirm-button {
   background: green;
   color: white;
   font-weight: bold;
-} 
+} /*   changed */
 
 .button {
   background-color: rgb(255, 255, 255);
